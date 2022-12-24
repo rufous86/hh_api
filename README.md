@@ -1,2 +1,2 @@
-# hh_api
-[hh_api.ipynb](https://colab.research.google.com/github/rufous86/hh_api/blob/main/hh_api.ipynb)
+# Анализ данных о вакансиях в области data science
+[Прототип](https://github.com/rufous86/hh_api/blob/main/hh_api.ipynb)
